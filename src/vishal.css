@@ -1,0 +1,19 @@
+body{
+    display:flex;
+    align-items:center ;
+    justify-content: center;
+}
+.items{
+    display: flex;
+    justify-content:space-between ;
+}
+.search{
+    margin-bottom:10px ;
+   
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
